@@ -1,0 +1,6 @@
+@SimpleStore_HostAddress = http://localhost:5198
+
+GET {{SimpleStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
