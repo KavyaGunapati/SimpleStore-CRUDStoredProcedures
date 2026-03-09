@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\dtos\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\dtos\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\repositories\\customerrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\repositories\\customerrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\dtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\dtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2B9053DB-0AC0-4969-B6CE-DEF9AA005521}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\dtos\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\dtos\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\dtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\dtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\dtos\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\dtos\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\storedprocedures\\simplestore\\simplestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4863E42-0EAB-5282-F637-A3269894F789}|SimpleStore\\SimpleStore.csproj|solutionrelative:simplestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,39 +86,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "SimpleStore\\Repositories\\CategoryRepository.cs",
               "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Repositories\\CategoryRepository.cs",
               "RelativeToolTip": "SimpleStore\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAkwC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwBsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T08:19:22.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "SimpleStore\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "SimpleStore\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAcwDEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T06:08:53.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Program.cs",
               "RelativeDocumentMoniker": "SimpleStore\\Program.cs",
               "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Program.cs",
               "RelativeToolTip": "SimpleStore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T06:07:28.269Z",
               "EditorCaption": ""
@@ -102,19 +113,122 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "SimpleStore\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "SimpleStore\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswD8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:24:56.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SimpleStore\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SimpleStore\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:45:11.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "SimpleStore\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "SimpleStore\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:20:53.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SimpleStore\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SimpleStore\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA6wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:26:52.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SimpleStore\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SimpleStore\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:55:23.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepositroy.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Repositories\\CustomerRepositroy.cs",
+              "RelativeDocumentMoniker": "SimpleStore\\Repositories\\CustomerRepositroy.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Repositories\\CustomerRepositroy.cs",
+              "RelativeToolTip": "SimpleStore\\Repositories\\CustomerRepositroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:42:38.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\DTOs\\Customer.cs",
+              "RelativeDocumentMoniker": "SimpleStore\\DTOs\\Customer.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\DTOs\\Customer.cs",
+              "RelativeToolTip": "SimpleStore\\DTOs\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:25:54.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SimpleStore\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SimpleStore\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:08:53.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "SimpleStore\\Repositories\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "SimpleStore\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wCcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T05:39:22.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\DTOs\\Product.cs",
               "RelativeDocumentMoniker": "SimpleStore\\DTOs\\Product.cs",
@@ -122,12 +236,11 @@
               "RelativeToolTip": "SimpleStore\\DTOs\\Product.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAwwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:35:05.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:35:05.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\DTOs\\Category.cs",
               "RelativeDocumentMoniker": "SimpleStore\\DTOs\\Category.cs",
@@ -135,25 +248,11 @@
               "RelativeToolTip": "SimpleStore\\DTOs\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:34:57.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:34:57.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "SimpleStore\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "SimpleStore\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAmwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:55:23.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\StoredProcedures\\SimpleStore\\SimpleStore\\appsettings.json",
               "RelativeDocumentMoniker": "SimpleStore\\appsettings.json",
@@ -161,8 +260,7 @@
               "RelativeToolTip": "SimpleStore\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-06T05:29:29.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:29:29.831Z"
             }
           ]
         }
