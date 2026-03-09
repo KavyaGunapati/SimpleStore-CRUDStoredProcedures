@@ -38,9 +38,6 @@ namespace SimpleStore.Repositories
                 "dbo.usp_Products_Delete", new { ProductId = productId }, commandType: CommandType.StoredProcedure);
             return rows > 0;
         }
-
-        
-
         public async Task<IEnumerable<ProductDto>> GetAllProductsAsync()
         {
            using var connection = GetConnection();
