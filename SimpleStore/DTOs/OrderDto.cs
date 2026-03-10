@@ -8,7 +8,7 @@
     public record AddOrderItemRequest(int ProductId, int Quantity);
     public record UpdateOrderItemQtyRequest(int Quantity);
 
-    // Results (match SP SELECT column order exactly)
+   
     public record OrderHeaderDto(
         int OrderId,
         int CustomerId,

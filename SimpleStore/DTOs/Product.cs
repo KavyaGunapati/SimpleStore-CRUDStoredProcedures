@@ -26,5 +26,15 @@
         int Stock,
         bool IsActive
     );
+    public record ProductSearchDto(
+    int ProductId,
+    string ProductName,
+    decimal Price,
+    int Stock,
+    int CategoryId,
+    string CategoryName
+);
+public record PagedResult<T>(IReadOnlyList<T> Items, int Total);
+public record ProductPageDto(int ProductId, string ProductName, decimal Price, int Stock, bool IsActive, int CategoryId, string CategoryName, DateTime CreatedAt);
 
 }

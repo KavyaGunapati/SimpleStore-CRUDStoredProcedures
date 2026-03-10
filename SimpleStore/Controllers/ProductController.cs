@@ -47,6 +47,18 @@ namespace SimpleStore.Controllers
             if (!success) return NotFound();
             return NoContent();
         }
-        
-    }
+        [HttpGet("search")]
+        public async Task<IActionResult> SearchProduct(string? name,int? id,decimal? minPrice,decimal? maxPrice)
+        {
+            var product = await _repository.SearchProduct(name,id,minPrice,maxPrice);
+            if (product == null) return NotFound();
+            return Ok(product);
+        }
+        [HttpGet("filter-paged")]
+        public async Task<IActionResult> FilterAndGetPagedProducts(string? search, int? categoryId, decimal? minPrice, decimal? maxPrice, bool? onlyActive, string? sortBy, string? sortOdr, int pageNumber, int pageSize)
+        {
+            var result=await _repository.GetProductsPagedAsync(search,categoryId,minPrice,maxPrice,onlyActive,sortBy,sortOdr,pageNumber,pageSize);
+            return Ok(result);
+        }
+        }
 }

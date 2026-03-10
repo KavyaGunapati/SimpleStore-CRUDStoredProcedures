@@ -12,6 +12,8 @@ namespace SimpleStore.Repositories
         Task<int> CreateProductAsync(CreateProductDto createProductDto);
         Task<bool> UpdateProductAsync(int id,UpdateProductDto updateProductDto);
         Task<bool> DeleteProductAsync(int productId);
+        Task<IEnumerable<ProductSearchDto>> SearchProduct(string? name,int? id,decimal? minPrice,decimal? maxPrice);
+        Task<PagedResult<ProductPageDto>> GetProductsPagedAsync(string? search,int? categoryId,decimal? minPrice,decimal? maxPrice,bool? onlyActive,string? sortBy,string? sortOdr,int pageNumber, int pageSize);
     }
     public class ProductRepository(IConfiguration cfg) : IProductRepository
     {
@@ -59,13 +61,39 @@ namespace SimpleStore.Repositories
                 "dbo.usp_Product_Update",new
                 {
                     ProductId=id,
-                   ProductName=updateProductDto.ProductName,
+                   updateProductDto.ProductName,
                     updateProductDto.CategoryId,
                     updateProductDto.Price,
                     updateProductDto.Stock,
                     updateProductDto.IsActive
                 },commandType:CommandType.StoredProcedure);
             return rows >= 0;
+        }
+
+        public async Task<IEnumerable<ProductSearchDto>> SearchProduct(string? name,int? id,decimal? minPrice,decimal? maxPrice)
+        {
+            using var connection = GetConnection();
+            return await connection.QueryAsync<ProductSearchDto>(
+                "dbo.usp_Product_Search", new { ProductName = name, CategoryId = id, MinPrice = minPrice, MaxPrice = maxPrice }, commandType: CommandType.StoredProcedure);
+        }
+
+        public async Task<PagedResult<ProductPageDto>> GetProductsPagedAsync(string? search, int? categoryId, decimal? minPrice, decimal? maxPrice, bool? onlyActive, string? sortBy, string? sortOdr, int pageNumber, int pageSize)
+        {
+           using var connection= GetConnection();
+            var parameters = new DynamicParameters();
+            parameters.Add("@Search", search);
+            parameters.Add("@CategoryId",categoryId);
+            parameters.Add("@MinPrice", minPrice);
+            parameters.Add("@MaxPrice",maxPrice);
+            parameters.Add("@OnlyActive", onlyActive);
+            parameters.Add("@SortBy",sortBy);
+            parameters.Add("@SortOdr", sortOdr);
+            parameters.Add("@PageNumber", pageNumber);
+            parameters.Add("@PageSize", pageSize);
+            using var multi = await connection.QueryMultipleAsync("dbo.usp_Product_FilterPaged", parameters, commandType: CommandType.StoredProcedure);
+            var items=(await multi.ReadAsync<ProductPageDto>()).ToList();
+            var total=await multi.ReadFirstAsync<int>();
+            return new(items, total);
         }
     }
 }
